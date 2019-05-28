@@ -14,7 +14,18 @@
   <entry>
     <title><![CDATA[test]]></title>
     <url>%2F2019%2F03%2F26%2Ftest%2F</url>
-    <content type="text"><![CDATA[just testdsada]]></content>
+    <content type="text"><![CDATA[just testdsada somingthing nothing sdgfd gdfhgdfdsgsdf]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>-test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F03%2F26%2Ftest2%2F</url>
+    <content type="text"><![CDATA[python之文件定位、重命名、删除https://jingyan.baidu.com/article/6dad50753b7f3ea123e36e02.html python3 遍历删除特定后缀名文件https://blog.csdn.net/xiangxianghehe/article/details/77000897 python实现GoTo功能https://segmentfault.com/q/1010000004213276 python中的正则表达式（re模块）https://www.cnblogs.com/tina-python/p/5508402.html 正则测试https://regex101.com/r/cO8lqs/7 正则表达式https://www.jiqizhixin.com/articles/2018-10-09-13?from=synced&amp;keyword=%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F 利用Python实现csv文件的合并和去重https://blog.csdn.net/u012735708/article/details/83989842 去重https://blog.csdn.net/u010665216/article/details/78559091 pandas使用https://blog.csdn.net/rosefun96/article/details/78876273 正则表达式findall用法https://www.cnblogs.com/xieshengsen/p/6727064.html python中re.search().group()https://www.cnblogs.com/erichuo/p/7909180.html Python strip()方法http://www.runoob.com/python/att-string-strip.html 304 状态https://blog.csdn.net/franknotbad/article/details/79399809 egret中euibtn图片切换https://bbs.egret.com/thread-25588-1-1.html python文件读read()、readline()、readlines()对比https://www.cnblogs.com/xiugeng/p/8635862.html python re模块findall()详解https://www.cnblogs.com/one-lightyear/p/6814833.html re匹配语法-match、search和findallhttps://www.cnblogs.com/Roc-Atlantis/p/8891483.html python_批量修改文件名https://www.cnblogs.com/timtike/p/5887997.html]]></content>
       <categories>
         <category>test</category>
       </categories>
